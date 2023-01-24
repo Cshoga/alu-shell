@@ -1,2 +1,2 @@
-# alu-shell
-my second repository
+#!/bin/bash
+echo "my second repository"
