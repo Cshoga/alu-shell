@@ -1,2 +1,13 @@
-#!/bin/bash
-echo -e "Best School"  >> "\\*\\\\'\"Best School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
+[main 2debb91] 7
+ Date: Sat Jan 28 09:20:58 2023 -0800
+ 10 files changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 io_redirections_and_filters/1-confused_smiley
+ mode change 100644 => 100755 io_redirections_and_filters/10-no_more_js
+ mode change 100644 => 100755 io_redirections_and_filters/2-hellofile
+ mode change 100644 => 100755 io_redirections_and_filters/3-twofiles
+ mode change 100644 => 100755 io_redirections_and_filters/4-lastlines
+ mode change 100644 => 100755 io_redirections_and_filters/5-firstlines
+ mode change 100644 => 100755 io_redirections_and_filters/6-third_line
+ mode change 100644 => 100755 io_redirections_and_filters/7-file
+ mode change 100644 => 100755 io_redirections_and_filters/8-cwd_state
+ mode change 100644 => 100755 io_redirections_and_filters/9-duplicate_last_line
