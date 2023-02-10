@@ -1,11 +1,8 @@
 #!/usr/bin/env bash
-# script that displays the time for 12 hours and 59 minutes
-while [ $=
-#!/usr/bin/env bash                                                                                         
-# Initializing time variables                                                                
+#script that displays the time for 12 hours and 59 minutes                                                                
 time=0                                                                                                       
 i=1
-echo "Hours : $time" ]
+echo "Hours : $time" 
 while [ $time -lt 13 ]
 do
        echo "Hour: $time" | head -n 70
