@@ -5,7 +5,7 @@ while [ $=
 # Initializing time variables                                                                
 time=0                                                                                                       
 i=1
-echo "Hours : $time"
+echo "Hours : $time" ]
 while [ $time -lt 13 ]
 do
        echo "Hour: $time" | head -n 70
