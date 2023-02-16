@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-#script that creates a file with its PID
-scrpit="/var/run/myscript.pid"
+# This script creates the file /var/run/holbertonscript.pid containing its PID.
+script="/var/run/holbertonscript.pid"
 echo $$ > "$script"
 trap 'echo "I hate the kill command"; rm "$script"; exit' SIGTERM SIGQUIT
 while true;
