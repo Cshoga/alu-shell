@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-# This script creates the file /var/run/holbertonscript.pid containing its PID.
-script="/var/run/holbertonscript.pid"
-echo $$ > "$script"
-trap 'echo "I hate the kill command"; rm "$script"; exit' SIGTERM SIGQUIT
-while true;
-do
-	echo "To infinity and beyond"
-done
